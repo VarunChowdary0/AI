@@ -1,3 +1,9 @@
+'''
+    Basic Execution of Linear Regression Algorithem
+    -> And, Data visualization using matplotlib
+'''
+
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
