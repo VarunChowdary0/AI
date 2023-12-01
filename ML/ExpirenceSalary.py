@@ -1,6 +1,6 @@
 '''
-    Basic Execution of Linear Regression Algorithem
-    -> And, Data visualization using matplotlib
+    Basic Execution of Linear Regression Algorithem,
+      and Data visualization using matplotlib
 '''
 
 
